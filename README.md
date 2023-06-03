@@ -1,5 +1,5 @@
 - 👋 Olá, você esta falando com a Empresa Nexus
-- 👀 Olá <@871095722844495893>   me chamo Freitas, sou CEO da empresa NEXUS DIGITAL fica a lista de serviços abaixo
+- 👀 Olá   me chamo Freitas, sou CEO da empresa NEXUS DIGITAL fica a lista de serviços abaixo
 
 
 Criador de Efeitos Visuais/Editor
